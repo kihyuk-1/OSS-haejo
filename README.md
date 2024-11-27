@@ -1,4 +1,4 @@
-# OSS-알아서해조 그룹 과제 
+# OSS-알아서해조 그룹 과제  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Hamster.webp" alt="Hamster" width="50" height="50" />
 # 🌱 팀과제: 다음 내용을 디자인과 팀원들의 협업 활동 평가
 
 내용과 함께 깃허브의 다양한 기능 사용 평가  <br>
