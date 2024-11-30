@@ -18,4 +18,4 @@ chatGPT로 최초 소프트웨어를 생성 <br>
 팀원들이 더욱 개선해 나가는 협업 과정(커밋에 여러 번 발생) <br>
 
 
-<img src="https://user-images.githubusercontent.com/58683097/175309185-a7ad9d33-b9aa-4d69-93c0-b18039c602d4.png" width="500" height="400" />
+
